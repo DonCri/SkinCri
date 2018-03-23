@@ -198,7 +198,7 @@ body {
 	filter: invert(0.6);
 }
 
-/* Statistik Fenster angezeigt wird */
+/* Statistik Fenster angezeigt */
 .ipsDialog>div {
 	color: #FFFFFF;
 	background-color: #222222;
@@ -241,7 +241,7 @@ body {
 }
 
 .ipsDialog.ipsCirclesliderDialog .progressBar {
-	stroke: #006BB2;
+	stroke: #2bff00;
 }
 
 .ipsDialog.ipsCirclesliderDialog .backgroundStripesCircle {
