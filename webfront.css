@@ -189,10 +189,11 @@ body {
 
 .ipsDialog>div {
 	color: #787875;
-	background-color: #FFFFFF;
+	background-color: #fc9601;
 	border-color: #006BB2;
 }
 
+/* Titelbereich der Statistikfenster */
 .ipsDialog>div>.title {
 	color: #FFFFFF;
 	background-color: #ff0000;
