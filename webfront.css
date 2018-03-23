@@ -107,7 +107,7 @@ body {
 /* Trennlinien zwischen Variablen innerhalb eines Moduls */
 .ipsCategory>.container .childContainers>div {
 	border-color: #2bff00;
-	border-width: 0.5px;
+	border-width: 1px;
 }
 
 .ipsCategory>.container .content .visual>.enum {
