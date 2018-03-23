@@ -63,7 +63,7 @@ body {
 	background-color: #000000;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	background-image: linear-gradient(to bottom, #000000, #FFFFFF); 
+	background-image: linear-gradient(to bottom, #000000, #212122);
 }
 
 .ipsTabPane>.navigation>.scroll>.buttons>div {
