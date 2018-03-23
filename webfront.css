@@ -198,14 +198,14 @@ body {
 	filter: invert(0.6);
 }
 
-/* Bereich wo die Statistik angezeigt wird */
+/* Statistik Fenster angezeigt wird */
 .ipsDialog>div {
 	color: #FFFFFF;
 	background-color: #222222;
-	border-color: #006BB2;
+	border-color: #2bff00;
 }
 
-/* Titelbereich der Statistikfenster */
+/* Titelbereich des Statistik Fenster */
 .ipsDialog>div>.title {
 	color: #FFFFFF;
 	background-color: #000000;
