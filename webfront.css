@@ -84,10 +84,10 @@ body {
 	color: #787875;
 }
 
-/* Unbekannt */
+/* Modul / Instanz */
 .ipsCategory>.container.hasChildren {
 	background-color: #000000;
-
+	background-image: -webkit-linear-gradient(left,rgb(41,131,195),rgb(0,105,180),rgb(41,131,195));
 	border-width: 1px;
 	color: #FFFFFF;
 }
