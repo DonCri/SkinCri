@@ -248,9 +248,10 @@ body {
 	stroke: #787875;
 }
 
+/* Rundslider "Halteknopf" */
 .ipsDialog.ipsCirclesliderDialog .sliderHandle {
-	fill: #FFFFFF;
-	stroke: grey;
+	fill: #000000;
+	stroke: #FF0000;
 }
 
 .ipsDialog.ipsChartDialog>div>.buttons>.prev,
