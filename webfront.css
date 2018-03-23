@@ -74,6 +74,13 @@ body {
 	background-color: rgba(255,255,255,0.15);
 }
 
+/*hb*/._disabled/*/hb*/ .left {
+  box-shadow: 1px 0 1px rgba(0,0,0,0.12)/*scc1*/;
+}
+
+/*hb*/._disabled/*/hb*/ .top  {
+  box-shadow: 0 1px 1px rgba(0,0,0,0.12)/*scc1*/;
+}
 
 /* Wen eine einzelne Variable angezeigt wird */
 .ipsCategory>.container {
