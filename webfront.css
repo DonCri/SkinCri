@@ -106,7 +106,7 @@ body {
 
 /* Unbekannt */
 .ipsCategory>.container .childContainers>div {
-	border-color: rgba(0,107,178,0.2);
+	border-color: rgb(255, 13, 238);
 }
 
 .ipsCategory>.container .content .visual>.enum {
