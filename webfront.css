@@ -73,12 +73,12 @@ body {
 }
 
 
-/* Unbekannt */
+/* Wen eine einzelne Variable angezeigt wird */
 .ipsCategory>.container {
-	background-color: #c60996;
+	background-color: #222222;
 	border-style: solid;
 	border-width: 10px;
-	border-color: #006BB2;
+	border-color: #000000;
 
 	border-image-slice: 1;
 	color: #787875;
@@ -96,7 +96,7 @@ body {
 	filter: invert(0);
 }
 
-/* Variablen */
+/* Variablen innerhalb eines Moduls (auch Dummy Module)*/
 .ipsCategory>.container>.childContainers {
 	background-color: #222222;
 	color: #787875;
