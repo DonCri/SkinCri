@@ -33,6 +33,7 @@ body {
 /* Balken mit WebFronts beim Loging */
 .ipsLogin>.content>.configurators {
 	background-color: #000000;
+	border-color: #2bff00;
 }
 
 /* Unbekannt */
