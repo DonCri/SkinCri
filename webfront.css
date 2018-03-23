@@ -21,14 +21,14 @@ body {
 
 
 /* Farbe verändern */
-.ipsLogin {
+.ipsLogin { /* Hintergrund beim Loging */
 	background-color: #000000;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 
 }
 
-.ipsLogin>.content>.configurators {
+.ipsLogin>.content>.configurators { /* Balken mit WebFronts beim Loging */
 	background-color: #000000;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 .ipsWebFront>.ipsTabPane>.navigation {
-	background-color: #0D528A;
+	background-color: #3b3b3a;
 	border-color: #0D528A;
 	background-image: -webkit-linear-gradient(top, rgb(36,124,189) 0,rgb(4,81,140) 40px);
 }
