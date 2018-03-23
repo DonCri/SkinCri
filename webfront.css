@@ -92,6 +92,7 @@ body {
 	border-color: #2bff00;
 	border-width: 1px;
 	color: #FFFFFF;
+	width: 50%;
 }
 
 .ipsCategory>.container.hasChildren>.content>.icon {
