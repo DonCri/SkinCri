@@ -84,7 +84,6 @@ body {
 
 	border-image-slice: 1;
 	color: #FFFFFF;
-	width: 50%;
 }
 
 /* Modul / Instanz */
@@ -93,7 +92,6 @@ body {
 	border-color: #2bff00;
 	border-width: 1px;
 	color: #FFFFFF;
-	width: 50%;
 }
 
 .ipsCategory>.container.hasChildren>.content>.icon {
