@@ -136,9 +136,10 @@ body {
 	padding: 2px 0 0px;
 }
 
+/* Nicht ausgewählte Werte von Integer Variablen */
 .ipsCategory>.container .content .visual>.selector>div {
-	
-	background-color: #ff0000;
+
+	background-color: #000000;
 	border-style: none;
 	color: #787875;
 	min-height: 29px;
