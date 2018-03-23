@@ -86,8 +86,8 @@ body {
 
 /* Unbekannt */
 .ipsCategory>.container.hasChildren {
-	background-color: #006BB2;
-	background-image: -webkit-linear-gradient(left,rgb(41,131,195),rgb(0,105,180),rgb(41,131,195));
+	background-color: #000000;
+
 	border-width: 1px;
 	color: #FFFFFF;
 }
@@ -102,6 +102,7 @@ body {
 	color: #787875;
 }
 
+/*  */
 .ipsCategory>.container .childContainers>div {
 	border-color: rgba(0,107,178,0.2);
 }
@@ -110,10 +111,10 @@ body {
 	padding: 2px 0 0px;
 }
 
-/* Variablen Wertauswahl z.B. "Aus" -> Wert nicht ausgewählt */
+/* Unbekannt */
 .ipsCategory>.container .content .visual>.enum>div {
 	background-image: -webkit-linear-gradient(bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0.5) 100%);
-	background-color: #c2fe2f;
+	background-color: #CCCCCC;
 	border-style: none;
 	color: #787875;
 	filter: grayscale();
