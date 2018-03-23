@@ -100,6 +100,7 @@ body {
 .ipsCategory>.container>.childContainers {
 	background-color: #222222;
 	color: #FFFFFF;
+	border-color: #2bff00;
 }
 
 /* Unbekannt */
