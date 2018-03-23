@@ -96,14 +96,14 @@ body {
 	filter: invert(0);
 }
 
-/*  */
+/* Variablen */
 .ipsCategory>.container>.childContainers {
 	background-color: #bdcd5b;
 	color: #787875;
 }
 
 .ipsCategory>.container .childContainers>div {
-	border-color: rgba(0,107,178,0.2);
+	border-color: rgb(164, 55, 68);
 }
 
 .ipsCategory>.container .content .visual>.enum {
