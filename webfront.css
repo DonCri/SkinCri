@@ -84,9 +84,9 @@ body {
 	color: #787875;
 }
 
-/*  */
+/* Unbekannt */
 .ipsCategory>.container.hasChildren {
-	background-color: #bdcd5b;
+	background-color: #006BB2;
 	background-image: -webkit-linear-gradient(left,rgb(41,131,195),rgb(0,105,180),rgb(41,131,195));
 	border-width: 1px;
 	color: #FFFFFF;
@@ -96,8 +96,9 @@ body {
 	filter: invert(0);
 }
 
+/*  */
 .ipsCategory>.container>.childContainers {
-	background-color: #FFFFFF;
+	background-color: #bdcd5b;
 	color: #787875;
 }
 
