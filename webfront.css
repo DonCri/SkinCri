@@ -122,7 +122,7 @@ body {
 .ipsCategory>.container .content .visual>.enum>.selected {
 	filter: none;
 	background-image: -webkit-linear-gradient(bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0.25) 100%);
-	background-color: #5b6058;
+	background-color: #006BB2;
 	border-style: none;
 	color: #FFFFFF;
 }
