@@ -264,7 +264,7 @@ body {
 }
 
 .ipsDialog.ipsEventDialog>.ipsScheduleDialog>.content {
-	filter: invert(1);
+	filter: invert(0);
 	color: #FFFFFF;
 }
 
