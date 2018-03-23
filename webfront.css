@@ -35,12 +35,14 @@ body {
 	background-color: #000000;
 }
 
+/* Unbekannt */
 .ipsWebFront {
-	background-color: #ff0000;
+	background-color: #000000;
 }
 
+/* Unbekannt */
 .ipsWebFront>.ipsTabPane>.navigation {
-	background-color: #3b3b3a;
+	background-color: #ff0000;
 	border-color: #0D528A;
 	background-image: -webkit-linear-gradient(top, rgb(36,124,189) 0,rgb(4,81,140) 40px);
 }
