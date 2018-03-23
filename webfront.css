@@ -104,9 +104,9 @@ body {
 	border-color: #2bff00;
 }
 
-/* Unbekannt */
+/* Trennlinien zwischen Variablen innerhalb eines Moduls */
 .ipsCategory>.container .childContainers>div {
-	border-color: rgb(255, 13, 238);
+	border-color: #2bff00;
 }
 
 .ipsCategory>.container .content .visual>.enum {
