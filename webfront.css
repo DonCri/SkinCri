@@ -59,7 +59,7 @@ body {
 
 /* Hintergrund innerhalb des WebFront (nur Browser) */
 .ipsTabPane>.content {
-	background-color: #3b3b3a;
+	background-color: #222222;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
@@ -98,7 +98,7 @@ body {
 
 /* Variablen */
 .ipsCategory>.container>.childContainers {
-	background-color: #3b3b3a;
+	background-color: #222222;
 	color: #787875;
 }
 
