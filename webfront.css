@@ -84,8 +84,9 @@ body {
 	color: #787875;
 }
 
+/*  */
 .ipsCategory>.container.hasChildren {
-	background-color: #006BB2;
+	background-color: #bdcd5b;
 	background-image: -webkit-linear-gradient(left,rgb(41,131,195),rgb(0,105,180),rgb(41,131,195));
 	border-width: 1px;
 	color: #FFFFFF;
@@ -187,6 +188,7 @@ body {
 	filter: invert(0.6);
 }
 
+/* Bereich wo die Statistik angezeigt wird */
 .ipsDialog>div {
 	color: #787875;
 	background-color: #fc9601;
