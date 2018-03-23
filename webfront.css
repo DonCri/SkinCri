@@ -81,7 +81,7 @@ body {
 	border-color: #000000;
 
 	border-image-slice: 1;
-	color: #787875;
+	color: #FFFFFF;
 }
 
 /* Modul / Instanz */
@@ -99,7 +99,7 @@ body {
 /* Variablen innerhalb eines Moduls (auch Dummy Module)*/
 .ipsCategory>.container>.childContainers {
 	background-color: #222222;
-	color: #787875;
+	color: #FFFFFF;
 }
 
 /* Unbekannt */
