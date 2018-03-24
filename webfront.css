@@ -66,12 +66,14 @@ body {
 	background-image: linear-gradient(to bottom, #000000, #212122);
 }
 
+/* Deckkraft der Zellen in der Navigation */
 .ipsTabPane>.navigation>.scroll>.buttons>div {
-	opacity: 1;
+	opacity: 0.5;
 }
 
+/* aktive Navigationszelle */
 .ipsTabPane>.navigation>.scroll>.buttons>div.active {
-	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.15);
 }
 
 
