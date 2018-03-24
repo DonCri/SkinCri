@@ -68,7 +68,7 @@ body {
 
 /* Deckkraft der Zellen in der Navigation */
 .ipsTabPane>.navigation>.scroll>.buttons>div {
-	opacity: 0.5;
+	opacity: 0.1;
 }
 
 /* aktive Navigationszelle */
