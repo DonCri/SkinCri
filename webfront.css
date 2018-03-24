@@ -91,7 +91,7 @@ body {
 
 /* Modul / Instanz */
 .ipsCategory>.container.hasChildren {
-	background-image: -webkit-linear-gradient(to right, #2BFF00, #000000 10%);
+	background-image: -webkit-linear-gradient(to right, #2BFF00 0, #000000 10%);
 	background-color: #000000;
 	border-color: #000000;
 	border-width: 1px;
