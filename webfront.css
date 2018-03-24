@@ -93,7 +93,7 @@ body {
 .ipsCategory>.container.hasChildren {
 	background-image: linear-gradient(to right, rgb(43, 255, 0), rgb(0, 0, 0) 10%);
 	background-color: #000000;
-	border-color: #000000;
+	border-color: linear-gradient(to right, rgb(43, 255, 0), rgb(0, 0, 0) 50%);
 	border-width: 1px;
 	color: #FFFFFF;
 }
