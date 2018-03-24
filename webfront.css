@@ -114,9 +114,9 @@ body {
 	border-width: 1px;
 }
 
-/* Zelle der "Knöpfe" */
+/* Variablen Zelle */
 .ipsCategory>.container .content .visual>.enum {
-	padding: 100px 0 0px;
+	padding: 2px 0 0px;
 }
 
 /* Inaktive Wertauswahl innerhalb eines Modul */
@@ -126,6 +126,7 @@ body {
 	border-style: none;
 	color: #787875;
 	filter: grayscale();
+	padding: 100px;
 }
 
 /* Variablen Wertauswahl z.B. "An" -> Wert ausgewählt */
