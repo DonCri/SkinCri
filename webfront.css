@@ -116,7 +116,7 @@ body {
 
 /* Zelle der "Knöpfe" */
 .ipsCategory>.container .content .visual>.enum {
-	padding: 4px 0 0px;
+	padding: 10px 0 0px;
 }
 
 /* Inaktive Wertauswahl innerhalb eines Modul */
