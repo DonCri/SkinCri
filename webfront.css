@@ -196,7 +196,7 @@ body {
 .ipsCategory>.container .content .link>.runLink,
 .ipsCategory>.container .content .link>.colorLink,
 .ipsCategory>.container .content .link>.enumLink {
-	filter: invert(0.6);
+	filter: invert(0);
 }
 
 /* Statistik Fenster angezeigt */
