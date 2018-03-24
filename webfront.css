@@ -96,6 +96,7 @@ body {
 	border-color: #2bff00;
 	border-image: linear-gradient(to right, rgb(43, 255, 0), rgb(0, 0, 0) 50%);
 	border-width: 1px;
+	border-style: solid;
 	color: #FFFFFF;
 }
 
