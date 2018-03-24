@@ -117,6 +117,7 @@ body {
 /* Variablen Zelle */
 .ipsCategory>.container .content .visual>.enum {
 	padding: 2px 0 0px;
+	border-color: #fa00ff;
 }
 
 /* Inaktive Wertauswahl innerhalb eines Modul */
@@ -126,7 +127,6 @@ body {
 	border-style: none;
 	color: #787875;
 	filter: grayscale();
-	padding: 100px;
 }
 
 /* Variablen Wertauswahl z.B. "An" -> Wert ausgewählt */
