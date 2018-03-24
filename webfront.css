@@ -176,12 +176,14 @@ body {
 	right: -55px;
 }
 
+/* Slider Hintergrund (Balkenfarbe bei 0%). Nur von den Geraden Slider */
 .ipsCategory>.container .content .visual>.slider>div>.background {
 	background-image: -webkit-linear-gradient(bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0.5) 100%);
 	background-color: #000000;
 	border-style: none;
 }
 
+/* Slider Deckbalke (Balkenfarbe bei 100%). Nur von den Geraden Slider */
 .ipsCategory>.container .content .visual>.slider>div>.bar {
 	background-image: -webkit-linear-gradient(bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0.5) 100%);
 	border-style: none;
@@ -189,7 +191,7 @@ body {
 }
 
 .ipsCategory>.container .content .icon {
-	filter: invert(0.6);
+	filter: invert(0);
 }
 
 /* Invertieren von Symbolen */
